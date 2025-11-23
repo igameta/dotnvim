@@ -10,7 +10,7 @@ return {
     lazy = false, -- neo-tree will lazily load itself
   },
   {
-      "nvim-neo-tree/nvim-web-devicons",
+      "nvim-tree/nvim-web-devicons",
       opts = {}
   },
 }
