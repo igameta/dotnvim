@@ -8,3 +8,4 @@ vim.keymap.set("n", "<leader>K", function() vim.lsp.buf.hover() end)
 -- for SKK
 vim.keymap.set("i", "<C-j>", "<Nop>", { noremap = true, silent =true})
 vim.keymap.set("n", "<C-j>", "<Nop>", { noremap = true, silent =true})
+
